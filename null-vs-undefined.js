@@ -1,0 +1,12 @@
+function add (num1,num2){
+    console.log (num1)
+
+}
+const premik = { name: "smart",phone : 34536};
+console.log(premik.gf);
+
+let fun = undefined;
+console.log(fun);
+
+let ages = [2,4,9]
+console . log (ages[11]);
